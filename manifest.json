@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "QR Code Generator",
   "version": "1.0",
-  "description": "在網頁右下角顯示QRCode",
+  "description": "顯示網頁QRCode",
   "permissions": ["activeTab"],
   "background": {
     "service_worker": "background.js"
